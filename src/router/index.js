@@ -4,7 +4,7 @@ import PortfolioMainView from '../views/PortfolioMain.vue'
 const routes = [
  
   {
-    path: 'Portfolio',
+    path: '',
     name: 'Portfolio',
     component: PortfolioMainView
   },
